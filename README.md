@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Bigmario's GitHub stats](https://github-readme-stats-bigmario.vercel.app/api?username=bigmario&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats-bigmario.vercel.app/api/top-langs/?username=bigmario)](https://github.com/bigmario/github-readme-stats)
+
+
+
 <!--
 **bigmario/bigmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
