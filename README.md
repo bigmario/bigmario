@@ -9,6 +9,9 @@ Professional, with a high motivation to achieve, always looking for challenges a
 
 ## Repositories
 
+<a href="https://github.com/bigmario/game_of_life">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=game_of_life&theme=merko" />
+</a>
 <a href="https://github.com/bigmario/Python_Cardio">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=Python_Cardio&theme=merko" />
 </a>
