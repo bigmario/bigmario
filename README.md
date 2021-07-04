@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 I'm actively seeking opportunities for learning and self development.
 Professional, with a high motivation to achieve, always looking for challenges and high-level goals, with analytical, proactive reasoning, with excellent interpersonal relationships, with a willingness and ease to acquire knowledge, focused on adding value to any project in which I get involved.
@@ -7,6 +7,7 @@ Professional, with a high motivation to achieve, always looking for challenges a
 
 [![Top Langs](https://github-readme-stats-bigmario.vercel.app/api/top-langs/?username=bigmario&langs_count=10&theme=merko)](https://github.com/bigmario/github-readme-stats)
 
+## Repositories
 
 <a href="https://github.com/bigmario/Python_Cardio">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=Python_Cardio&theme=merko" />
