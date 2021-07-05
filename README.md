@@ -33,6 +33,12 @@ Professional, with a high motivation to achieve, always looking for challenges a
 <a href="https://github.com/bigmario/linear_regression_GO">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=linear_regression_GO&theme=merko" />
 </a>
+<a href="https://github.com/bigmario/docker">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=docker&theme=merko" />
+</a>
+<a href="https://github.com/bigmario/swarm">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=swarm&theme=merko" />
+</a>
 
 <!--
 **bigmario/bigmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
