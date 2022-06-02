@@ -30,8 +30,8 @@ Professional, with a high motivation to achieve, always looking for challenges a
 <a href="https://github.com/bigmario/FastAPI_SMS_MAIL">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=FastAPI_SMS_MAIL&theme=merko" />
 </a>
-<a href="https://github.com/bigmario/linear_regression_GO">
-  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=linear_regression_GO&theme=merko" />
+<a href="https://github.com/bigmario/bigmario-gram">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=bigmario-gram&theme=merko" />
 </a>
 <a href="https://github.com/bigmario/bigmario-exchange">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=bigmario-exchange&theme=merko" />
