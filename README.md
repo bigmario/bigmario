@@ -36,8 +36,8 @@ Professional, with a high motivation to achieve, always looking for challenges a
 <a href="https://github.com/bigmario/bigmario-exchange">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=bigmario-exchange&theme=merko" />
 </a>
-<a href="https://github.com/bigmario/swarm">
-  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=swarm&theme=merko" />
+<a href="https://github.com/bigmario/bigmario-resume-django">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=bigmario-resume-django&theme=merko" />
 </a>
 
 <!--
