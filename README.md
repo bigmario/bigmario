@@ -12,8 +12,8 @@ Professional, with a high motivation to achieve, always looking for challenges a
 <a href="https://github.com/bigmario/bigmario-store">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=bigmario-store&theme=merko" />
 </a>
-<a href="https://github.com/bigmario/hello-prisma">
-  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=hello-prisma&theme=merko" />
+<a href="https://github.com/bigmario/express-graphql-prisma">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=express-graphql-prisma&theme=merko" />
 </a>
 <a href="https://github.com/bigmario/nginx-api-gateway">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=nginx-api-gateway&theme=merko" />
