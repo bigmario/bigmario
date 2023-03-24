@@ -15,11 +15,11 @@ Professional, with a high motivation to achieve, always looking for challenges a
 <a href="https://github.com/bigmario/express-graphql-prisma">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=express-graphql-prisma&theme=merko" />
 </a>
-<a href="https://github.com/bigmario/nginx-api-gateway">
-  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=nginx-api-gateway&theme=merko" />
-</a>
 <a href="https://github.com/bigmario/graphql-prisma-nestjs">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=graphql-prisma-nestjs&theme=merko" />
+</a>
+<a href="https://github.com/bigmario/nginx-api-gateway">
+  <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=nginx-api-gateway&theme=merko" />
 </a>
 <a href="https://github.com/bigmario/fastapi-users-project">
   <img align="center" src="https://github-readme-stats-bigmario.vercel.app/api/pin/?username=bigmario&repo=fastapi-users-project&theme=merko" />
